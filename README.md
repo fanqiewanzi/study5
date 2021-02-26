@@ -19,4 +19,10 @@ linkedlist文件夹
 5. [从尾到头打印链表](https://leetcode-cn.com/problems/cong-wei-dao-tou-da-yin-lian-biao-lcof/)文件名：reverseprint
 
    先迭代一遍链表得到链表长度来创建一个slice存储值，然后在迭代一遍链表，用得到的链表长度作为下标反向录入链表的值，这样就得到了一个从尾到头链表的slice
+   
+   
+   
+   
+   
+   
    workpool在workpool文件夹里
